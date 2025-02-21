@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "kingleo.deepseek-web",
+        "kingleo.llmtext",
+        "haselerdev.aiquickfix",
+        "ms-azuretools.vscode-azureresourcegroups",
+        "kingleo.set-workspace-extension",
+        "dadroit.dadroit-json-generator",
+        "blackboxapp.blackboxagent"
+    ]
+}
